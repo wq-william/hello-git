@@ -12,7 +12,10 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		//第一次
 		System.out.println("增加打印信息2");
+//<<<<<<< HEAD
 		//第二次提交服务器
+//=======
+//>>>>>>> branch 'master' of https://github.com/wq-william/hello-git.git
 	}
 
 	@Override
