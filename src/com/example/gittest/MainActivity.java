@@ -11,6 +11,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		//第一次
+		System.out.println("增加打印信息2");
 	}
 
 	@Override
