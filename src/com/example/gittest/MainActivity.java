@@ -10,6 +10,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		System.out.println("hello 测试ssh更换过后");
 		//第一次
 		System.out.println("增加打印信息2");
 //<<<<<<< HEAD
