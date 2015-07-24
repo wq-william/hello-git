@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		//第一次
 		System.out.println("增加打印信息2");
+		System.out.println("增加打印信息3");
 	}
 
 	@Override
