@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		System.out.println("hello 测试ssh更换过后");
 		//第一次
+		//27号测试
 		System.out.println("增加打印信息2");
 //<<<<<<< HEAD
 		//第二次提交服务器
